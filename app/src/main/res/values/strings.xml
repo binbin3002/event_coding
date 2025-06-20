@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Event Dicoding</string>
+    <string name="title">Event Dicoding</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_setting">Setting</string>
+    <string name="upcoming_events">Upcoming Event </string>
+    <string name="finished_events">Finished Event </string>
+    <string name="open_event_link">Open Event Link </string>
+    <string name="dark_mode">Dark Mode </string>
+    <string name="favorite">Favorite </string>
+    <string name="daily_reminder">Notification </string>
+    <string name="added_to_favorites">Added to Favorite </string>
+    <string name="removed_from_favorites">Removed from favorite </string>
+    <string name="no_link_found">No link found </string>
+    <string name="favorite_events">Favorite Event </string>
+    <string name="settings">Setting </string>
+    <string name="detail_event">Detail Event </string>
+</resources>
